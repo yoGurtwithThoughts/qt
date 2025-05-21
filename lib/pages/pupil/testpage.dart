@@ -146,8 +146,6 @@ class _QtEntranceTestState extends State<QtEntranceTest> {
               },
             ),
             const SizedBox(height: 16),
-
-            // Вопрос 4
             const Text("4. На каком языке программирования основан Qt?",
              style: TextStyle(
                     color: Color.fromRGBO(69, 86, 186, 1),
@@ -202,8 +200,6 @@ class _QtEntranceTestState extends State<QtEntranceTest> {
               },
             ),
             const SizedBox(height: 32),
-
-            // Кнопка проверки
             Center(
               child: SmallMainButtonWidget(
                 buttonName: "Проверить",
